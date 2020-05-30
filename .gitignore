@@ -1,6 +1,7 @@
 # Logs
 logs
 *.log
+README.md.orig
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
